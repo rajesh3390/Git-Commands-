@@ -1,2 +1,1 @@
-Git commands thru hub
-git commands from local
+Git command from hub
